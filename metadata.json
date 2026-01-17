@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Proplay Spelling Quest",
+  "description": "An AI-powered spelling game for children that uses Gemini to generate fun themes and pronounce words using high-quality text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
